@@ -14,7 +14,7 @@ How to branch & Merge
 ====
 1. In the repo on github.com, select branch.
 
-2. Name the branch you handle and what you will be working on. 
+2. Name the branch with your handle and what you will be working on. 
 
 Examples "CR-TheMagicButton" "SS-Calculator"
 
