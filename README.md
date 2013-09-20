@@ -4,8 +4,8 @@ This is the test repo to to figure out how well this will work.
 
 Repo Rules
 ====
-#1. NEVER Edit The Master Branch Directly
-#2. Always ensure that you have an empty newline at the end of every file.
+1. NEVER Edit The Master Branch Directly
+2. Always ensure that you have an empty newline at the end of every file.
 
 How to branch & Merge
 ====
